@@ -4,6 +4,7 @@ export const CHANNEL = {
   emoji: "🤖",
   category: "교육",
   tagline: "AI 시대를 사는 사람의 길잡이",
+  youtubeUrl: "https://youtube.com/channel/UCw6VeVQBFA2J02-J_GVFi1g",
   layoutId: "tech-terminal",
   isLight: false,
   tokens: {
