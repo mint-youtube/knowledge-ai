@@ -1,7 +1,7 @@
 ---
 title: "AI가 자신있게 거짓말하는 순간 — 할루시네이션 메커니즘과 5가지 신호"
 description: "ChatGPT, Claude, Gemini에게 질문하면 가끔 "매우 자신있게 거짓말"합니다. 이를 "할루시네이션" (Hallucination)이라 합니다. 2026년 학계 측정 = ChatGPT 5 약 5-15%, Claude 4 약 3-10% (오류율). 가장 큰 문제 = AI가 "내가 모른다"고 말하지 않습니다. 무조건 답합니다.…"
-pubDate: 2026-05-18T16:05:00+09:00
+pubDate: 2026-05-18T16:08:00+09:00
 author: ""
 category: ""
 tags: ["할루시네이션", "ChatGPT", "Claude", "AI", "LLM", "매일AI", "1퍼센트법칙"]
