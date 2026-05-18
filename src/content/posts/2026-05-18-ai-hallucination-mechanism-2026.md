@@ -1,7 +1,7 @@
 ---
 title: "AI가 자신있게 거짓말하는 순간 — 할루시네이션 메커니즘 + 5가지 신호 + 4가지 회피"
 description: "ChatGPT 5 5-15%, Claude 4 3-10% 오류율. OpenAI 2025 "오답에 보상" 본질. 4가지 종류 (사실·논리·인용·자신감). 5가지 신호 + 4가지 회피 (Perplexity 50% 감소)."
-pubDate: 2026-05-19T09:00:00+09:00
+pubDate: 2026-05-18T09:00:00+09:00
 author: ""
 category: ""
 tags: ["할루시네이션", "ChatGPT 5", "Claude 4", "Mata v Avianca", "OpenAI 2025", "Perplexity", "RAG", "AI 신뢰성"]
