@@ -5,7 +5,7 @@ pubDate: 2026-05-19T21:12:00+09:00
 author: ""
 category: ""
 tags: ["할루시네이션", "ChatGPT 5", "Claude 4", "Mata v Avianca", "OpenAI 2025", "Perplexity", "RAG", "AI 신뢰성"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=TmUvBccxr-c"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-05-19-ai-hallucination-mechanism-2026/scene-2_img_2.png"
 draft: false
 ---

@@ -5,7 +5,7 @@ pubDate: 2026-05-18T17:27:00+09:00
 author: ""
 category: ""
 tags: ["AI채용", "이력서탈락", "ATS", "취업준비", "인공지능채용", "이력서작성법", "취업전략", "채용필터"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=66Wbb63D5vQ"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-05-18-ai-job-interview-screening-2026/scene-2_img_2.png"
 draft: false
 ---

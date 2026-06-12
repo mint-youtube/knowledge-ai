@@ -5,7 +5,7 @@ pubDate: 2026-05-11T09:00:00+09:00
 author: ""
 category: ""
 tags: ["AI 환경 영향", "ChatGPT 전력 소비", "데이터센터 물 소비", "AI 물 사용량", "마이크로소프트 원전", "쓰리마일 아일랜드 재가동", "AI 탄소 배출", "빅테크 원자력", "생성형 AI 에너지", "소형 모듈 원자로 SMR"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=X2sjZFq27UY"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-05-10-ai-energy-consumption-shock/intro_img_1.png"
 draft: false
 ---

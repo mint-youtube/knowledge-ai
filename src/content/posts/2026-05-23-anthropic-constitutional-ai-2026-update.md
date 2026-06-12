@@ -5,7 +5,7 @@ pubDate: 2026-05-23T17:48:00+09:00
 author: ""
 category: ""
 tags: ["앤스로픽", "클로드", "컨스티튜션AI", "Constitutional AI", "AI 윤리", "Claude 2026", "AI 안전", "AI 헌법", "Anthropic", "AI 규제"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=bAB7eVpWVrg"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-05-23-anthropic-constitutional-ai-2026-update/scene-2_img_2.png"
 draft: false
 ---

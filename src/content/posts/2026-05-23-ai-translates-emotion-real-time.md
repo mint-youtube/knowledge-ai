@@ -5,7 +5,7 @@ pubDate: 2026-05-23T09:00:00+09:00
 author: ""
 category: ""
 tags: ["감정 AI", "Emotion AI", "거짓말 탐지", "AI 프라이버시", "Affectiva"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=UgMX_ltL10c"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-05-23-ai-translates-emotion-real-time/scene-2_img_2.png"
 draft: false
 ---

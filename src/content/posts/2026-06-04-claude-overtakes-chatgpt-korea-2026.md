@@ -5,7 +5,7 @@ pubDate: 2026-06-04T09:00:00+09:00
 author: ""
 category: ""
 tags: ["Claude한국", "ChatGPT추월", "한국AI시장", "Anthropic서울", "ClaudeCode한국", "AI시장점유율2026", "생성형AI한국", "Claude vs ChatGPT", "한국AI테스트베드", "유료AI서비스"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=SBzWdxyrl-A"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-06-04-claude-overtakes-chatgpt-korea-2026/scene-2_img_2.png"
 draft: false
 ---

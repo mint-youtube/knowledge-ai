@@ -5,7 +5,7 @@ pubDate: 2026-05-16T09:00:00+09:00
 author: ""
 category: ""
 tags: ["음성 감정 인식 AI", "AI 직원 모니터링", "콜센터 AI", "사생활 침해", "AI 감정 분석", "노동 감시", "감정 인식 기술", "AI 규제", "음성 분석", "직장 감시"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=jByOqzQqmFs"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-05-15-ai-emotion-detection-call-center/intro_img_2.png"
 draft: false
 ---

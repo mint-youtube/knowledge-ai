@@ -5,7 +5,7 @@ pubDate: 2026-06-12T09:00:00+09:00
 author: ""
 category: ""
 tags: ["GPT5", "GPT5출시", "OpenAI", "에이전트AI", "ChatGPT", "GPT5.5", "AI모델비교", "추론AI", "AI에이전트", "2026AI"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=X-lJ1eyVFkU"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-06-12-openai-gpt5-release-2026-january/scene-2_img_2.png"
 draft: false
 ---

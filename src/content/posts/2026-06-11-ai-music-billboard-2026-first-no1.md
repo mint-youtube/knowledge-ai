@@ -5,7 +5,7 @@ pubDate: 2026-06-11T12:29:00+09:00
 author: ""
 category: ""
 tags: ["AI음악빌보드", "BreakingRust", "AI아티스트", "빌보드AI", "음악산업AI", "스트리밍AI", "가수직업미래", "AI저작권음악", "텍스트투뮤직", "음악인AI영향"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=RqyL-2f-ZPM"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-06-11-ai-music-billboard-2026-first-no1/scene-2_img_2.png"
 draft: false
 ---

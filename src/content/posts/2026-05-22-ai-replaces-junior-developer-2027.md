@@ -5,7 +5,7 @@ pubDate: 2026-05-22T11:47:00+09:00
 author: ""
 category: ""
 tags: ["AI 코딩", "GitHub Copilot", "Cursor", "Claude Code", "주니어 개발자", "네이버 카카오 채용", "AI 일자리"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Vl4cqd1m3EM"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-05-22-ai-replaces-junior-developer-2027/scene-2_img_2.png"
 draft: false
 ---
