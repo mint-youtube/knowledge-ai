@@ -5,7 +5,7 @@ pubDate: 2026-06-12T19:18:00+09:00
 author: ""
 category: ""
 tags: ["AI음악", "그래미AI", "인공지능음악", "비틀즈AI", "음악저작권AI", "빌보드AI", "BreakingRust", "음악산업미래", "AIartist", "그래미수상자격"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=jRvoWM97-Vc"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-06-12-ai-music-grammy-2026/scene-2_img_2.png"
 draft: false
 ---
