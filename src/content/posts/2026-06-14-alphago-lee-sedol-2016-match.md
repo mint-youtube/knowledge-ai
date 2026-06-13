@@ -5,7 +5,7 @@ pubDate: 2026-06-14T09:00:00+09:00
 author: ""
 category: ""
 tags: ["알파고", "이세돌", "알파고 이세돌", "37번째 수", "신의 한 수", "딥마인드", "인공지능 역사", "딥러닝"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=4wOhbL8Xdqg"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-06-14-alphago-lee-sedol-2016-match/scene-2_img_2.png"
 draft: false
 ---
