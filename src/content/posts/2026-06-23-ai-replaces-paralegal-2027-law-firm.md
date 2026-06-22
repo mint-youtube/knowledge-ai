@@ -5,7 +5,7 @@ pubDate: 2026-06-23T09:00:00+09:00
 author: ""
 category: ""
 tags: ["리걸AI", "AI변호사", "법률AI", "리걸테크", "변호사채용", "신입변호사", "계약서검토AI", "판례검색AI", "AI일자리", "직업의미래"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Mm3kEXlNz6U"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-06-23-ai-replaces-paralegal-2027-law-firm/scene-2_img_2.png"
 draft: false
 ---
