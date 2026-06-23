@@ -5,7 +5,7 @@ pubDate: 2026-06-24T09:00:00+09:00
 author: ""
 category: ""
 tags: ["AI 에이전트", "자율 AI", "에이전틱 커머스", "AI 결제", "오퍼레이터", "AI 자율 결제", "빅테크 동향", "스테이블코인 결제"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=mmkwedHh1Mo"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-06-24-ai-agent-books-flight-autonomously-2026/scene-2_img_2.png"
 draft: false
 ---
