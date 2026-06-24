@@ -5,7 +5,7 @@ pubDate: 2026-06-25T09:00:00+09:00
 author: ""
 category: ""
 tags: ["AI 회계사", "회계사 대체", "세무 자동화", "공인회계사 전망", "AI 일자리", "회계 자동화", "CPA 취업", "직업의 미래", "AI 감사", "회계사 미래"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=H7Vcz1YA5ss"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-06-25-ai-replaces-accountant-2027-tax-season/scene-2_img_2.png"
 draft: false
 ---
