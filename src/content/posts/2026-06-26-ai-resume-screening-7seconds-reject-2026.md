@@ -5,7 +5,7 @@ pubDate: 2026-06-26T09:00:00+09:00
 author: ""
 category: ""
 tags: ["AI 채용", "AI 이력서 필터", "ATS", "이력서 통과", "취업 전략", "채용 자동화", "AI 면접", "이력서 키워드", "자소서 AI", "채용 알고리즘"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=rF_jK3O0nQE"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-06-26-ai-resume-screening-7seconds-reject-2026/scene-2_img_2.png"
 draft: false
 ---
