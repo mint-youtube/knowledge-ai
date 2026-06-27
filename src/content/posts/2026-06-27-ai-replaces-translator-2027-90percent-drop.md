@@ -5,7 +5,7 @@ pubDate: 2026-06-27T14:04:00+09:00
 author: ""
 category: ""
 tags: ["번역가 AI", "AI 번역", "통역사 전망", "기계 번역", "번역 일자리", "AI 직업 영향", "번역 단가", "통역 자동화", "번역가 미래", "직업의 미래"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Zoub7Fbft4s"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-06-27-ai-replaces-translator-2027-90percent-drop/scene-2_img_2.png"
 draft: false
 ---
