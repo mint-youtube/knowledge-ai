@@ -5,7 +5,7 @@ pubDate: 2026-06-28T16:46:00+09:00
 author: ""
 category: ""
 tags: ["AI 에이전트", "자율 에이전트", "AI 결제", "에이전트 커머스", "AI 윤리", "AI 통제", "AI 비서", "에이전트 위험", "AI 보안", "자율 AI"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=qeQ6UdIPgY8"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-06-28-ai-agent-spends-money-autonomously-2026/scene-2_img_2.png"
 draft: false
 ---
