@@ -5,7 +5,7 @@ pubDate: 2026-06-29T13:40:00+09:00
 author: ""
 category: ""
 tags: ["AI 거짓말 탐지", "음성 분석", "AI 면접", "음성 스트레스 분석", "거짓말 탐지기", "감정 분석 AI", "AI 윤리", "음성 AI", "AI 채용", "거짓말 탐지 정확도"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=7U5Lx2H9qOs"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-06-29-ai-detects-lie-voice-95percent-2026/scene-2_img_2.png"
 draft: false
 ---
