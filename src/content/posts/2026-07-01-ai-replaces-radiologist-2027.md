@@ -5,7 +5,7 @@ pubDate: 2026-07-01T12:33:00+09:00
 author: ""
 category: ""
 tags: ["방사선AI", "의료AI", "MASAI임상", "AI의사대체", "방사선과미래", "FDA의료AI", "딥러닝진단", "AI방사선", "의료인공지능", "방사선레지던트"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=bldijsqHK34"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-07-01-ai-replaces-radiologist-2027/scene-2_img_2.png"
 draft: false
 ---
