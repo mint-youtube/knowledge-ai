@@ -5,7 +5,7 @@ pubDate: 2026-07-02T12:27:00+09:00
 author: ""
 category: ""
 tags: ["AI 코딩", "Cursor", "Claude Code", "GitHub Copilot", "주니어 개발자", "신입 채용", "개발자 취업", "AI 도구", "2026 채용", "코딩 부트캠프"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=itF9_qN6PSw"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-07-02-ai-coding-assistant-junior-dev-2026-impact/scene-2_img_2.png"
 draft: false
 ---
