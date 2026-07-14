@@ -5,7 +5,7 @@ pubDate: 2026-07-15T09:00:00+09:00
 author: ""
 category: ""
 tags: ["빌더AI", "Builder.ai", "가짜AI", "나타샤", "스타트업 사기", "마이크로소프트 투자", "AI 버블", "매출 조작", "돌려막기", "유니콘 붕괴"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=dcnbdojgfu4"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-07-15-builder-ai-700-humans-fake-unicorn-collapse-2025/scene-2_img_2.png"
 draft: false
 ---
