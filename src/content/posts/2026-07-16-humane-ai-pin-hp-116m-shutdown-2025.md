@@ -5,7 +5,7 @@ pubDate: 2026-07-16T09:00:00+09:00
 author: ""
 category: ""
 tags: ["휴메인", "에이아이 핀", "Humane AI Pin", "AI 웨어러블", "스마트폰 대체", "애플 출신 창업", "HP 인수", "AI 기기 실패", "이므란 초드리", "기술 몰락"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=TlhhLpExAzA"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-07-16-humane-ai-pin-hp-116m-shutdown-2025/scene-2_img_2.png"
 draft: false
 ---
