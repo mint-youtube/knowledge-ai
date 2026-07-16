@@ -5,7 +5,7 @@ pubDate: 2026-07-17T09:00:00+09:00
 author: ""
 category: ""
 tags: ["클라르나", "클라르나 AI", "AI 상담원", "AI 일자리 대체", "인공지능 고객상담", "Klarna 재고용", "AI 자동화 실패", "직업의 미래"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=VxyI8YWMbnI"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-07-17-klarna-ai-700-agents-rehire-reversal-2025/scene-2_img_2.png"
 draft: false
 ---
