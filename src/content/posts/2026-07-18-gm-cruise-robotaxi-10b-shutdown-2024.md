@@ -5,7 +5,7 @@ pubDate: 2026-07-18T09:00:00+09:00
 author: ""
 category: ""
 tags: ["크루즈", "GM 크루즈", "무인택시", "자율주행", "로보택시", "자율주행 사고", "크루즈 면허 정지", "카일 보그트", "자율주행 실패", "GM 자율주행"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=aO9Shy93UsE"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-07-18-gm-cruise-robotaxi-10b-shutdown-2024/scene-2_img_2.png"
 draft: false
 ---
