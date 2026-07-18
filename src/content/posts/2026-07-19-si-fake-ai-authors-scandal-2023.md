@@ -5,7 +5,7 @@ pubDate: 2026-07-19T09:00:00+09:00
 author: ""
 category: ""
 tags: ["스포츠 일러스트레이티드", "가짜 기자", "AI 기사", "드루 오티스", "AI 저널리즘", "AI 윤리", "아레나 그룹", "가짜뉴스", "AI 콘텐츠", "미디어 신뢰"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=TAp4V1RSgyE"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-07-19-si-fake-ai-authors-scandal-2023/scene-2_img_2.png"
 draft: false
 ---
