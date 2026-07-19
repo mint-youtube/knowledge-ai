@@ -5,7 +5,7 @@ pubDate: 2026-07-20T09:00:00+09:00
 author: ""
 category: ""
 tags: ["바빌론 헬스", "AI 의사", "AI 진단", "디지털 헬스", "알리 파르사", "헬스케어 스타트업", "AI 의료", "의료 인공지능", "스타트업 파산", "의료 AI 한계"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=1jbM5_-G-F4"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-07-20-babylon-health-ai-doctor-4b-collapse-2023/scene-2_img_2.png"
 draft: false
 ---
