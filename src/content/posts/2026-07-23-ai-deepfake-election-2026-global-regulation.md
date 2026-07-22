@@ -5,7 +5,7 @@ pubDate: 2026-07-23T09:00:00+09:00
 author: ""
 category: ""
 tags: ["AI 딥페이크", "EU AI Act", "선거 규제", "2026 선거", "딥페이크 탐지", "공직선거법", "AI 합성", "가짜뉴스", "미디어 리터러시", "AI 윤리"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Nbn2yi-KlRs"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-07-23-ai-deepfake-election-2026-global-regulation/scene-2_img_2.png"
 draft: false
 ---
