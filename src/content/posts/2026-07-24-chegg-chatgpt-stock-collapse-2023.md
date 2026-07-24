@@ -5,7 +5,7 @@ pubDate: 2026-07-24T10:15:00+09:00
 author: ""
 category: ""
 tags: ["체그 주가", "챗GPT 실업", "AI 일자리", "체그 챗GPT", "에듀테크 몰락", "생성형 AI 충격", "AI 기업 붕괴", "체그 카나리아"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=4BUtmaAQ3P4"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-07-24-chegg-chatgpt-stock-collapse-2023/scene-2_img_2.png"
 draft: false
 ---
