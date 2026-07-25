@@ -5,7 +5,7 @@ pubDate: 2026-07-26T09:00:00+09:00
 author: ""
 category: ""
 tags: ["IBM 왓슨", "의료 AI", "왓슨 실패", "MD 앤더슨", "의료 인공지능", "AI 암치료", "헬스케어 AI", "인공지능 한계"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=KPI8V5adW34"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-07-26-ibm-watson-oncology-md-anderson-62m-2017/scene-2_img_2.png"
 draft: false
 ---
