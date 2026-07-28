@@ -5,7 +5,7 @@ pubDate: 2026-07-29T09:00:00+09:00
 author: ""
 category: ""
 tags: ["아마존 무인매장", "저스트 워크 아웃", "아마존 고", "컴퓨터 비전", "AI 자동화", "무인 편의점", "아마존 프레시", "AI 노동"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=SjM9wQdhv9s"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-07-29-amazon-just-walk-out-1000-humans-india-2024/scene-2_img_2.png"
 draft: false
 ---
