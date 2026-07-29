@@ -5,7 +5,7 @@ pubDate: 2026-07-30T09:00:00+09:00
 author: ""
 category: ""
 tags: ["맥도날드 AI", "AI 드라이브스루", "자동 주문 시스템", "음성인식 AI", "IBM 맥도날드", "AI 주문 실패", "패스트푸드 AI", "AI 정확도"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=tiZakKj4Nz0"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-07-30-mcdonalds-ibm-ai-drivethru-shutdown-2024/scene-2_img_2.png"
 draft: false
 ---
