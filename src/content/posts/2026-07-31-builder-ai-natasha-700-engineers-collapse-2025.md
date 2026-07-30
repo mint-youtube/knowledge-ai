@@ -5,7 +5,7 @@ pubDate: 2026-07-31T09:00:00+09:00
 author: ""
 category: ""
 tags: ["빌더에이아이", "나타샤 AI", "AI 워싱", "AI 스타트업 파산", "노코드", "인공지능 사기 논란", "유령 노동", "AI 유니콘"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=9lnZ_L7DSK4"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-07-31-builder-ai-natasha-700-engineers-collapse-2025/scene-2_img_2.png"
 draft: false
 ---
