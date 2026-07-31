@@ -5,7 +5,7 @@ pubDate: 2026-08-01T09:00:00+09:00
 author: ""
 category: ""
 tags: ["질로우 오퍼스", "아이바잉", "집값 예측 AI", "부동산 알고리즘", "AI 투자 실패", "예측 모델 한계", "빅테크 실패", "머신러닝 부동산"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=6A7yKolvRzo"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-08-01-zillow-offers-algorithm-500million-collapse-2021/scene-2_img_2.png"
 draft: false
 ---
