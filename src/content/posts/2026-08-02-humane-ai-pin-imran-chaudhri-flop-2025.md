@@ -5,7 +5,7 @@ pubDate: 2026-08-02T09:00:00+09:00
 author: ""
 category: ""
 tags: ["AI 핀", "휴메인", "AI 하드웨어", "웨어러블 AI", "AI 기기 실패", "스마트폰 대체", "빅테크 실패", "인공지능 가젯"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=AYiLSThbSOY"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-08-02-humane-ai-pin-imran-chaudhri-flop-2025/scene-2_img_2.png"
 draft: false
 ---
