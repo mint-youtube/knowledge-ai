@@ -5,7 +5,7 @@ pubDate: 2026-08-07T09:00:00+09:00
 author: ""
 category: ""
 tags: ["Clearview AI", "얼굴 인식", "안면 인식", "개인정보 보호", "AI 감시", "GDPR 벌금", "호안 톤탯", "프라이버시", "데이터 스크래핑", "인공지능 윤리"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=HMbZKMFT1HM"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-08-07-clearview-ai-face-scraping-fines-2024/scene-2_img_2.png"
 draft: false
 ---
