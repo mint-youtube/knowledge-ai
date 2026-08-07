@@ -5,7 +5,7 @@ pubDate: 2026-08-08T09:00:00+09:00
 author: ""
 category: ""
 tags: ["DoNotPay", "로봇 변호사", "AI 변호사", "리걸테크", "FTC 합의", "조슈아 브라우더", "챗봇", "인공지능 법률", "AI 규제", "리걸 AI"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=RsjNfMW_ia4"
 heroImage: "https://assets.dailynote.blog/knowledge-ai/2026-08-08-donotpay-robot-lawyer-ftc-2024/scene-2_img_2.png"
 draft: false
 ---
